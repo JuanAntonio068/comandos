@@ -1,10 +1,11 @@
-package comandos;
+package juan;
 
 public class Juan_Antonio {
 
 	public static void main(String[] args) {
 
-		String cadena;
+		System.out.println("Hol, mundo");
+
 	}
 
 }
